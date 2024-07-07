@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @LimonadoPy
+- 👀 I’m interested in Linux, Python, GDscript and game development, AI
+- 💞️ I’m looking to collaborate on something, no matter what.
+- 📫 instagram: @shukaigames / gmail: shukaigames@gmail.com
+- ⚡ Fun fact: I live in Cuba 
